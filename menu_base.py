@@ -16,6 +16,6 @@ while True:
     elif op == "2":
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
-        def datos_julian()
+        datos_julian()
     else:
         print(" Opción inválida.")
