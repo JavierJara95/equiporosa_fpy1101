@@ -1,13 +1,13 @@
 #<<<<<<< rama_julian
 def datos_julian():
     print("Mi nombre es Julian y tengo 19 años.")
-=======
+#=======
 #<<<<<<< rama_esteban
 # Menú base del progam
 
 def datos_esteban():
     print("Mi nombre es Esteban Gonzalez y tengo 31 años.")
-=======
+#=======
 #>>>>>>> main
 # Menú base del programa
 def info_javier() :
