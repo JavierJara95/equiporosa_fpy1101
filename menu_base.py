@@ -1,4 +1,6 @@
 # Menú base del programa
+def info_javier() :
+    print("Mi nombre es Javier Jara y tengo 29 años")
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
     print("1. Función de integrante 1")
@@ -10,7 +12,7 @@ while True:
         print("Programa finalizado.")
         break
     elif op == "1":
-        pass # Aquí se llamará a la función del integrante 1
+        info_javier()
     elif op == "2":
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
